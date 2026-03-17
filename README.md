@@ -106,3 +106,26 @@ The LCA module effectively restores accuracy with only 56 additional parameters,
 ### 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+### 2. Train, Test and Inference
+```bash
+python mnist_model.py
+
+## Paper Access
+This repository contains the Author’s Submitted Manuscript (AAM) of the paper:FastLightCNN: An Ultra-Lightweight Attention-Based Convolutional Network for Edge-Oriented Digit RecognitionPublished in: Proceedings of the 3rd International Conference on Machine Learning and Neural Networks (MLNN’26), ACM, 2026.
+© 2026 Copyright held by the owner/author(s). Publication rights licensed to ACM.For personal and academic use only. No commercial use allowed.
+
+## Citation
+If you use this work in your research, please cite the original paper:
+```bibtex
+@inproceedings{yang2026fastlightcnn,
+  title={FastLightCNN: An Ultra-Lightweight Attention-Based Convolutional Network for Edge-Oriented Digit Recognition},
+  author={Yang, Kevin and Wang, Zihan and Yang, Tiebao},
+  booktitle={Proceedings of the 3rd International Conference on Machine Learning and Neural Networks (MLNN'26)},
+  year={2026},
+  organization={ACM}
+}
+
+##License
+Code: MIT License
+Paper: © ACM 2026. Author’s Accepted Manuscript for non-commercial academic use only.
