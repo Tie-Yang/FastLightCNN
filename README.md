@@ -115,10 +115,10 @@ python mnist_model.py
 
 ## Paper Access
 This repository contains the Author’s Submitted Manuscript (AAM) of the paper: 
-FastLightCNN: An Ultra-Lightweight Attention-Based Convolutional Network for Edge-Oriented Digit Recognition
-To be reviewed for: Proceedings of the 3rd International Conference on Machine Learning and Neural Networks (MLNN’26), ACM, 2026.
-© 2026 Copyright held by the owner/author(s). Publication rights licensed to ACM.
-For personal and academic use only. No commercial use allowed.
+- FastLightCNN: An Ultra-Lightweight Attention-Based Convolutional Network for Edge-Oriented Digit Recognition
+- To be reviewed for: Proceedings of the 3rd International Conference on Machine Learning and Neural Networks (MLNN’26), ACM, 2026.
+- © 2026 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+- For personal and academic use only. No commercial use allowed.
 
 ## Citation (paper is currently under review)
 If you use this work in your research, please cite the original paper:
@@ -133,5 +133,5 @@ If you use this work in your research, please cite the original paper:
 ```
 
 ##License
-Code: MIT License
-Paper: © ACM 2026. Author’s Accepted Manuscript for non-commercial academic use only.
+- Code: MIT License
+- Paper: © ACM 2026. Author’s Accepted Manuscript for non-commercial academic use only.
