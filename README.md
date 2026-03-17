@@ -132,6 +132,6 @@ If you use this work in your research, please cite the original paper:
 }
 ```
 
-##License
+## License
 - Code: MIT License
 - Paper: © ACM 2026. Author’s Accepted Manuscript for non-commercial academic use only.
